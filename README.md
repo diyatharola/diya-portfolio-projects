@@ -6,7 +6,7 @@
 ---
 
 ## 💡 About Me
-I am a Data Analytics enthusiast with hands-on experience in:
+I am a Data Analyst with hands-on experience in:
 - Data Analytics & Visualization  
 - Machine Learning & AI  
 - Business Intelligence (Power BI, Excel, SQL)  
@@ -14,14 +14,29 @@ I am a Data Analytics enthusiast with hands-on experience in:
 I enjoy working on real-world datasets and building end-to-end analytical solutions.
 
 ---
+##🛠️ Technical Skills
 
-## 🛠️ Skills
+**Programming & Data Handling**
 - Python (Pandas, NumPy, Scikit-learn)
-- SQL (Data extraction & analysis)
-- Excel (Data cleaning & dashboards)
-- Power BI (Interactive dashboards)
-- Machine Learning (Regression, Classification, Clustering)
-- Data Visualization & Storytelling
+- SQL (Data extraction, joins, analysis)
+
+**Data Visualization**
+- Power BI (Interactive dashboards, KPIs)
+- Excel (Data cleaning, reporting)
+- Power Query
+- Tableau (Interactive dashboards, KPIs)
+- SPSS
+
+**Machine Learning**
+- Supervised Learning (Regression, Classification)
+- Unsupervised Learning (Clustering)
+- Basic Model Evaluation
+
+**Other Skills**
+- Data Cleaning & Preprocessing
+- Data Storytelling
+- Exploratory Data Analysis (EDA)
+- ERP Usage 
 
 ---
 
@@ -45,11 +60,11 @@ I am actively building strong portfolio projects in:
 
 ---
 
-## 🎯 Goals
-- Build a strong data analytics portfolio
-- Land a Data Analyst / BI Analyst role
-- Gain real-world industry experience
-- Improve storytelling with data
+## 🎯 Career Interests
+- Data Scientist
+- ML Engineer
+- Business Intelligence Analyst
+- Data Analyst
 
 ---
 
@@ -58,6 +73,6 @@ I am actively building strong portfolio projects in:
 - LinkedIn: www.linkedin.com/in/diyatharola
 
 
----
 
 ⭐ *Always learning, always building.*
+⭐ *“Data is not just numbers, it’s a story waiting to be understood.”*
