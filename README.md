@@ -17,7 +17,7 @@ I am a Data Analyst with hands-on experience in:
 I enjoy working on real-world datasets and building end-to-end analytical solutions.
 
 ---
-##🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 **Programming & Data Handling**
 - Python (Pandas, NumPy, Scikit-learn)
