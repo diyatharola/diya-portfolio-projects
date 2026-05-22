@@ -2,6 +2,8 @@
 
 <p align="center">
 🎯 Data Analyst | Data Scientist  
+ </p>
+ <p align="center">
 📊 Turning data into insights, and insights into decisions  
 </p>
 ---
