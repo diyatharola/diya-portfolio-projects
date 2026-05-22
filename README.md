@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Diya F Tharola
 
-🎯 Data Analyst | Aspiring Data Scientist  
+<p align="center">
+🎯 Data Analyst | Data Scientist  
 📊 Turning data into insights, and insights into decisions  
-
+</p>
 ---
 
 ## 💡 About Me
