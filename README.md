@@ -59,6 +59,27 @@ I am actively building strong portfolio projects in:
 - Visualized KPIs like sales, profit, and regional trends
 - Used Power BI + Excel for data modeling and visualization
 
+### 📌 Key Insights Delivered
+- 📈 Sales & Profit performance tracking  
+- 🌍 Region-wise analysis  
+- 🏷️ Category & product-level insights  
+- 📊 Monthly trend analysis  
+- 🎯 KPI-driven dashboard view  
+
+---
+
+### 🛠️ Tools Used
+- Power BI  
+- Excel  
+- DAX (Basic calculations)  
+
+---
+
+### 📊 Dashboard Preview
+
+<p align="center">
+ <img src="powerbi/Screenshot 2026-05-22 223117.png" width="400"/>
+ </p>
 👉 More projects coming soon...
 
 ---
